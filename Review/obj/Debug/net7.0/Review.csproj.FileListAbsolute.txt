@@ -1,0 +1,15 @@
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/bin/Debug/net7.0/Review
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/bin/Debug/net7.0/Review.deps.json
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/bin/Debug/net7.0/Review.runtimeconfig.json
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/bin/Debug/net7.0/Review.dll
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/bin/Debug/net7.0/Review.pdb
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/Review.csproj.AssemblyReference.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/Review.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/Review.AssemblyInfoInputs.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/Review.AssemblyInfo.cs
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/Review.csproj.CoreCompileInputs.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/Review.dll
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/refint/Review.dll
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/Review.pdb
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/Review.genruntimeconfig.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab03-Review/Review/obj/Debug/net7.0/ref/Review.dll
